@@ -64,13 +64,13 @@ python main.py
 
 ## Usage
 
-if wanted the solve the all levels make sure `credentials.csv` , only ths content , remove old credentials
+To solve all levels, ensure that the `credentials.csv` file contains only the following content, removing any old credentials:
 
 ```
 level,username,password
 ```
 
-if it has some credentials, means it will resume from that level
+If the file already contains credentials, the solver will resume from the corresponding level.
 
 ## Level-Specific Features
 
