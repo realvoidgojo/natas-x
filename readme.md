@@ -97,6 +97,3 @@ Comprehensive error handling including:
 - File operation errors
 - Invalid credentials
 
-## License
-
-This project is for educational purposes only. Use only on systems you have permission to test.
